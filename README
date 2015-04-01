@@ -1,0 +1,40 @@
+                              MCEPLite - v.0.1
+                                  2015-27-02
+
+  What is it?
+  -----------
+
+  MCEPLite is an Monte Carlo error prograpation calculator. It calculates the 
+  error on a  multivariable function where the variables are not correlated and
+  distributed according to a gaussian law. 
+
+  Author
+  ------------------
+
+  MCEPLite is designed and developed by Xavier Derkx.
+
+  Documentation
+  -------------
+
+  The documentation available as of the date of this release is
+  included in HTML format in the docs/manual/ directory.  The most
+  up-to-date documentation can be found at
+  http://httpd.apache.org/docs/trunk/.
+
+  Installation
+  ------------
+
+  MCEPLite is a command-line script written in Python. Be sure Python is
+  installed and that the MCEPLite.py file has the approriate execution rights. 
+
+  Licensing
+  ---------
+
+  MCEPLite is a free software under the CeCILL 2.1 licence. Please see the file
+  called LICENSE.
+
+  Contacts
+  --------
+
+     o Website: http://www.*.org
+     o Email: xavier.derkx@gmail.com
